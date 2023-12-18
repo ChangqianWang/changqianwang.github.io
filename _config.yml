@@ -83,7 +83,8 @@ author:
   name             : "Changqian Wang"
   avatar           : "photo.jpg"
   bio              : "A Second-year Master Student from Anhui University."
-  Affiliation         : "Anhui University"
+  Institution         : "Anhui University"
+  Location         : "Hefei, Anhui, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0tiy0dMAAAAJ"
