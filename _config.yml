@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changqian Wang \\王长乾"
+  name             : "Changqian Wang"
   avatar           : "photo.jpg"
   bio              : "A Second-year Master Student from Anhui University."
-  location         : "Anhui University, Hefei, //Anhui Province, China"
+  Affiliation         : "Anhui University"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0tiy0dMAAAAJ"
