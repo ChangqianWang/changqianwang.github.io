@@ -12,12 +12,12 @@ Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui
 
 Publications
 ------
-**Conference Papers:**
+**Conference Papers**
 
 1. Haiping Ma, Changqian Wang, Hengshu Zhu, Shangshang Yang, Xiaoming Zhang, Xingyi Zhang, Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach, In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-2024) , 2024 [[paper]](https://scholar.google.com/citations?user=0tiy0dMAAAAJ)
 1. Coming Soon~ 
-------
-**Journal Papers:**
+
+**Journal Papers**
 
 1.Coming Soon~
 
