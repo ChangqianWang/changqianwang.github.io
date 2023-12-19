@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui University, under the guidance of Associate Professor Haiping Ma. My research interests are data mining and intelligent education, including cognitive diagnosis and computerized adaptive testing. I prefer to seek PhD opportunity after my Master study.
+Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui University, under the guidance of Associate Professor [Haiping Ma](https://wky.ahu.edu.cn/2023/0926/c13481a316092/page.htm). My research interests are data mining and intelligent education, including cognitive diagnosis and computerized adaptive testing. I prefer to seek PhD opportunity after my Master study.
 
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
