@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Changqian Wang"
+title                    : "Changqian Wang's Homepage "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "photo.jpg"
   bio              : "A Second-year Master's Student from Anhui University."
   # Institution         : "Anhui University"
-  Location         : "Hefei, Anhui, China"
+  location         : "Hefei, Anhui, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0tiy0dMAAAAJ"
