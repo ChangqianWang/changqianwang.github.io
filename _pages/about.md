@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui University, under the guidance of Associate Professor Ma Haiping. My research interests are data mining and intellegent education, including cognitive diagnosis and computerized adaptive testing. I prefer to seek PhD opportunity after my Master study.
+Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui University, under the guidance of Associate Professor Haiping Ma. My research interests are data mining and intelligent education, including cognitive diagnosis and computerized adaptive testing. I prefer to seek PhD opportunity after my Master study.
 
 A data-driven personal website
 ======
