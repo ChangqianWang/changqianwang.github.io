@@ -19,8 +19,9 @@ Publications
 2. Coming Soon~
 <hr>
 **Journal Papers**
+
 1. Coming Soon~
-1. Coming Soon~
+2. Coming Soon~
 
 Awards
 =======
