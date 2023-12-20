@@ -37,12 +37,11 @@ Latest Work Introduction
 =======
 <hr>
 **1. Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach (AAAI2024)**
-
 Cognitive diagnosis is a crucial task in intelligent education, aiming to diagnose students' proficiency in specific knowledge concepts through their answer records. Extracting information from non-interactive exercises and designing potential answer labels for students pose significant challenges, to address them, we innovatively proposed the Collaborative Perception Mixed Exercise Sampling (CMES) framework. Specifically, we cluster students based on their answering abilities and collaborative relationships, sampling exercises from sets interacted with by students from other clusters. Given the rich diagnostic information in interactive exercises and the diverse information inherent in non-interactive exercises, we employ a mixture technique to fuse the information of sampled exercises with that of interactive exercises, obtaining more information-rich samples. Finally, we design an unfed module based on ranking learning to assign potential answer labels to the fused samples.
 
 ![CMES](/models/cmes.png)
 
+<hr>
 **2. Coming Soon~**
----
 Introduction of work2
 
