@@ -19,7 +19,7 @@ Publications
 2. Coming Soon~
 
 <!-- <hr> -->
-**Journal Papers** -->
+<!--**Journal Papers** -->
 
 <!-- 1. Coming Soon~ -->
 <!-- 2. Coming Soon~ -->
