@@ -12,7 +12,7 @@ Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui
 
 Interests
 =======
-I have a passion for photography. Currently, I am a contracted photographer for multiple platforms, including DJI and [Visual China](https://500px.com.cn/wcq206). My works have been selected by National Geographic China and published in several official media outlets.. You can view my photography portfolio under the 'Photography' section in the navigation bar.
+I have a passion for photography. Currently, I am a contracted photographer for multiple platforms, including DJI(大疆) and [Visual China(视觉中国)](https://500px.com.cn/wcq206). My works have been selected by National Geographic China and published in several official media outlets.. You can view my photography portfolio under the 'Photography' section in the navigation bar.
 
 Besides that, I have a strong passion for football, and Dalian Professional Football Club is my favorite team.
 
