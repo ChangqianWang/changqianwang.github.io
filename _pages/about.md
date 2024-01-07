@@ -10,6 +10,10 @@ redirect_from:
 
 Hi, I am Changqian Wang! Currently, I am a second-year master's student at Anhui University, under the guidance of Associate Professor [Haiping Ma](https://wky.ahu.edu.cn/2023/0926/c13481a316092/page.htm). My research interests are data mining and intelligent education, including cognitive diagnosis and computerized adaptive testing. I prefer to seek PhD opportunity after my Master study.
 
+Interests
+=======
+I have a passion for photography. Currently, I am a contracted photographer for multiple platforms, including DJI and [Visual China](https://500px.com.cn/wcq206). My works have been selected by National Geographic China and published in several official media outlets.. You can view my photography portfolio under the 'Photography' section in the navigation bar.
+Besides that, I have a strong passion for football, and Dalian Professional Football Club is my favorite team.
 News
 =======
 1. 2024-12-9： 1 paper([CMES](https://arxiv.org/abs/2312.10110)) accepted in AAAI2024.
