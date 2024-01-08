@@ -21,7 +21,7 @@ News
 =======
 1. 2023-12-9: One paper([CMES](https://arxiv.org/abs/2312.10110)) accepted in AAAI2024.
 2. 2023-12-4: Oral presentation of the paper ReliCD on behalf of Yunfei Zhang and [Chuan Qin](https://scholar.google.com/citations?&user=0KTz65wAAAAJ) at ICDM2023.
-4. 2023-5-17: Attend the CCF YOCSEF conference held in Wenzhou.
+4. 2023-5-17: Attend the [CCF YOCSEF](https://www.ccf.org.cn/Media_list/YEF/2023-05-19/791750.shtml) conference held in Wenzhou.
 
 Publications
 =======
