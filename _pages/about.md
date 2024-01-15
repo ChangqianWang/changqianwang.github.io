@@ -19,8 +19,9 @@ I have a passion for photography. Currently, I am a contracted photographer for 
 
 News
 =======
-1. 2023-12-9: One paper([CMES](https://arxiv.org/abs/2312.10110)) accepted in AAAI2024.
-2. 2023-12-4: Oral presentation of the paper [ReliCD](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0KTz65wAAAAJ&sortby=pubdate&citation_for_view=0KTz65wAAAAJ:hC7cP41nSMkC) on behalf of Yunfei Zhang and [Chuan Qin](https://scholar.google.com/citations?&user=0KTz65wAAAAJ) at ICDM2023.
+1. 2024-1-14: 2023 BIMK Lab First Class Scholarship.
+2. 2023-12-9: One paper([CMES](https://arxiv.org/abs/2312.10110)) accepted in AAAI2024.
+3. 2023-12-4: Oral presentation of the paper [ReliCD](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0KTz65wAAAAJ&sortby=pubdate&citation_for_view=0KTz65wAAAAJ:hC7cP41nSMkC) on behalf of Yunfei Zhang and [Chuan Qin](https://scholar.google.com/citations?&user=0KTz65wAAAAJ) at ICDM2023.
 4. 2023-5-17: Attend the [CCF YOCSEF](https://www.ccf.org.cn/Media_list/YEF/2023-05-19/791750.shtml) conference held in Wenzhou.
 
 Publications
