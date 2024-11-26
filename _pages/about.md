@@ -30,8 +30,8 @@ Publications
 <!-- <hr> -->
 <!-- **Conference Papers** -->
 
-1. Haiping Ma, **Changqian Wang**, Hengshu Zhu, Shangshang Yang, Xiaoming Zhang, Xingyi Zhang, <u>"Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"</u>, *In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-2024)*, 2024 [[paper](https://arxiv.org/abs/2312.10110)]
-2. Coming Soon~
+1. Haiping Ma, Aoqing Xia, **Changqian Wang**, Hai Wang, Xingyi Zhang, <u>"Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing"</u>, *Proceedings of the 31th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD-2025)*, 2025 [[paper](https://arxiv.org/abs/2411.12182)]
+2. Haiping Ma, **Changqian Wang**, Hengshu Zhu, Shangshang Yang, Xiaoming Zhang, Xingyi Zhang, <u>"Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach"</u>, *In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-2024)*, 2024 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28735)]
 
 <!-- <hr> -->
 <!--**Journal Papers** -->
@@ -54,14 +54,15 @@ Academic Services
 Latest Work Introduction
 =======
 <hr>
-**1. Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach (AAAI2024)**
+**1. Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing (KDD2025)**
+
+Computerized Adaptive Testing (CAT) aims to select the most appropriate questions based on the examinee's ability and is widely used in online education. However, existing CAT systems often lack initial understanding of the examinee's ability, requiring random probing questions. In response to this gap, we propose Diffusion Cognitive States TransfeR Framework (DCSR), a novel domain transfer framework based on Diffusion Models (DMs) to address the CSIP task. Specifically, we construct a cognitive state transition bridge between domains, guided by the common cognitive states of examinees, encouraging the model to reconstruct the initial ability state in the target domain. To enrich the expressive power of the generated data, we analyze the causal relationships in the generation process from a causal perspective. Redundant and extraneous cognitive states can lead to limited transfer and negative transfer effects. Our DCSR can seamlessly apply the generated initial ability states in the target domain to existing question selection algorithms, thus improving the cold start performance of the CAT system.
+
+![CMES](/models/dcsr.png)
+
+<hr>
+**2. Enhancing Cognitive Diagnosis using Un-interacted Exercises: A Collaboration-aware Mixed Sampling Approach (AAAI2024)**
 
 Cognitive diagnosis is a crucial task in intelligent education, aiming to diagnose students' proficiency in specific knowledge concepts through their answer records. Extracting information from non-interactive exercises and designing potential answer labels for students pose significant challenges, to address them, we innovatively proposed the Collaborative Perception Mixed Exercise Sampling (CMES) framework. Specifically, we cluster students based on their answering abilities and collaborative relationships, sampling exercises from sets interacted with by students from other clusters. Given the rich diagnostic information in interactive exercises and the diverse information inherent in non-interactive exercises, we employ a mixture technique to fuse the information of sampled exercises with that of interactive exercises, obtaining more information-rich samples. Finally, we design an unfed module based on ranking learning to assign potential answer labels to the fused samples.
 
 ![CMES](/models/cmes.png)
-
-<hr>
-**2. Coming Soon~**
-
-Introduction of work2
-
